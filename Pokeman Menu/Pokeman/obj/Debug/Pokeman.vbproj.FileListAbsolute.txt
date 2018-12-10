@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\bin\Debug\Pokeman.exe.config
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\bin\Debug\Pokeman.exe
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\bin\Debug\Pokeman.pdb
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\bin\Debug\Pokeman.xml
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.vbprojAssemblyReference.cache
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.MainMenu.resources
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.Resources.resources
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.frmShopMenu.resources
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.vbproj.GenerateResource.cache
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.vbproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.exe
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.xml
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.pdb
+C:\Users\danie\source\repos\Pokeman Menu\Pokeman\obj\Debug\Pokeman.frmBox.resources
